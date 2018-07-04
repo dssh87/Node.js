@@ -1,0 +1,12 @@
+{
+  "name": "PackMan 2018JR",
+  "short_name": "Push Demo 2018JR",
+  "icons": [{
+    "src": "images/icon2.jpg",
+    "sizes": "250x182"
+  }],
+  "start_url": "./index.html",
+  "display": "standalone",
+  "gcm_sender_id": "103953800507"
+
+}
